@@ -9,7 +9,6 @@
     pkgs.python311Packages.pip
     pkgs.openssh
   ];
-  
   # Sets environment variables in the workspace
   env = {};
   idx = {
