@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Hola, Mundo!")
+st.title("Hola, Mundo que tal como lo veis!")
 st.write("Esta es una aplicación de ejemplo usando Streamlit en Project IDX.")
 
 # Añadir un control deslizante
